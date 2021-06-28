@@ -22,7 +22,7 @@ Remember to place your own 'Telegram-API-Token'.
 ⚙️ Beta V1.0
 
 🤖 Developed By:
-[T.me/JoiFoi](t.me/joifoi) & [T.me/mac_mr](t.me/mac_mr)
+[T.me/JoiFoi](https://t.me/joifoi) & [T.me/mac_mr](https://t.me/mac_mr)
 
 📧 JoiFoi@Outlook.Com
 

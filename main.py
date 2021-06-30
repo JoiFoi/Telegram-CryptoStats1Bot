@@ -206,6 +206,14 @@ def message():
         return message_content
     except:
         pass
+    
+count = 0
+while count < 3:
+  message()
+  count += 1
+  if count >= 3:
+    break
+print('gathering data completed. bot started at ' + str(datetime.datetime.today()))
 
 
 def start(update, context):

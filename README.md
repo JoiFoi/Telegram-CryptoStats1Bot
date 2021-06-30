@@ -31,5 +31,5 @@ Remember to place your own 'Telegram-API-Token'.
 
 # 2 Important Notes
 1. Remember, You NEED To Place Your Own Telegram-Bot-API On Line 26
-2. Also, You NEED To Place Your Own Channel User-Id on Line 234. It's Not Your Channel's Username And It Does Not Start With @.
+2. Also, You NEED To Place Your Own Channel User-Id on Line 242. It's Not Your Channel's Username And It Does Not Start With @.
 It's Something Like This: -1111111111111. You Can Get It Using [IDBot](https://t.me/username_to_id_bot); That Bot Is Not Mine By The Way.

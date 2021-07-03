@@ -9,8 +9,6 @@ Free Open-Source Channel Manager For CryptoStats Telegram Channel.
 
 🔥 Server Powered By: Repl.it
 
-🔑 Using bit.ly Link Shortener Development API
-
 🐍 Written In Python!
 
 🖥 We're using [python-telegram-bot Package](https://github.com/python-telegram-bot/python-telegram-bot/blob/master/README.rst) to use Telegram-API in python.
